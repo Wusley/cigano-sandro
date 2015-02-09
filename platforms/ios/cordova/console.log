@@ -1,0 +1,211 @@
+2015-02-08 13:58:16.311 CiganoSandro[2149:16322] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Data/Application/383E916E-51E0-4327-99F3-2D9688142E0E/Library/Cookies/Cookies.binarycookies
+2015-02-08 13:58:16.571 CiganoSandro[2149:16322] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-08 13:58:16.571 CiganoSandro[2149:16322] Multi-tasking -> Device: YES, App: YES
+2015-02-08 13:58:16.589 CiganoSandro[2149:16322] Unlimited access to network resources
+2015-02-08 13:58:16.599 CiganoSandro[2149:16322] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-08 13:58:17.291 CiganoSandro[2149:16322] ERROR: Start Page at 'www/index.html' was not found.
+2015-02-08 13:58:17.838 CiganoSandro[2149:16322] Resetting plugins due to page load.
+2015-02-08 13:58:17.883 CiganoSandro[2149:16322] Finished load of: about:blank
+2015-02-08 14:13:53.528 CiganoSandro[3575:22914] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Data/Application/B55816CE-B79E-4A8D-81D9-E84E557D2957/Library/Cookies/Cookies.binarycookies
+2015-02-08 14:13:53.633 CiganoSandro[3575:22914] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-08 14:13:53.633 CiganoSandro[3575:22914] Multi-tasking -> Device: YES, App: YES
+2015-02-08 14:13:53.635 CiganoSandro[3575:22914] Unlimited access to network resources
+2015-02-08 14:13:53.638 CiganoSandro[3575:22914] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-08 14:13:53.926 CiganoSandro[3575:22914] Resetting plugins due to page load.
+2015-02-08 14:13:54.007 CiganoSandro[3575:22914] Finished load of: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Bundle/Application/ACB25E69-9303-40E4-8838-5EB3FABE7C46/CiganoSandro.app/www/index.html
+2015-02-08 14:48:55.623 CiganoSandro[4726:31458] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Data/Application/515ECB67-E0F9-4A39-A36B-38F6F3F6C166/Library/Cookies/Cookies.binarycookies
+2015-02-08 14:48:55.727 CiganoSandro[4726:31458] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-08 14:48:55.728 CiganoSandro[4726:31458] Multi-tasking -> Device: YES, App: YES
+2015-02-08 14:48:55.730 CiganoSandro[4726:31458] Unlimited access to network resources
+2015-02-08 14:48:55.733 CiganoSandro[4726:31458] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-08 14:48:56.026 CiganoSandro[4726:31458] Resetting plugins due to page load.
+2015-02-08 14:48:56.061 CiganoSandro[4726:31458] Finished load of: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Bundle/Application/E40DB767-9833-4290-8AF7-FF747D553225/CiganoSandro.app/www/index.html
+2015-02-08 19:30:27.658 CiganoSandro[10376:96298] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Data/Application/E15122E5-0EB1-4A1A-B201-8821F6EDBFFB/Library/Cookies/Cookies.binarycookies
+2015-02-08 19:30:27.894 CiganoSandro[10376:96298] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-08 19:30:27.894 CiganoSandro[10376:96298] Multi-tasking -> Device: YES, App: YES
+2015-02-08 19:30:27.909 CiganoSandro[10376:96298] Unlimited access to network resources
+2015-02-08 19:30:27.919 CiganoSandro[10376:96298] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-08 19:30:28.616 CiganoSandro[10376:96298] Resetting plugins due to page load.
+2015-02-08 19:30:28.981 CiganoSandro[10376:96298] Finished load of: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Bundle/Application/938A2352-E093-4330-9A50-EA9AD9D24A48/CiganoSandro.app/www/index.html
+2015-02-08 19:31:49.349 CiganoSandro[10740:97360] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Data/Application/E1CF4D53-2EA2-4A15-898B-9E544CAE0404/Library/Cookies/Cookies.binarycookies
+2015-02-08 19:31:49.464 CiganoSandro[10740:97360] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-08 19:31:49.464 CiganoSandro[10740:97360] Multi-tasking -> Device: YES, App: YES
+2015-02-08 19:31:49.466 CiganoSandro[10740:97360] Unlimited access to network resources
+2015-02-08 19:31:49.468 CiganoSandro[10740:97360] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-08 19:31:49.762 CiganoSandro[10740:97360] Resetting plugins due to page load.
+2015-02-08 19:31:49.923 CiganoSandro[10740:97360] Finished load of: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Bundle/Application/E9BA1F64-8AF1-48DC-8A26-DC121FA54695/CiganoSandro.app/www/index.html
+2015-02-08 19:33:21.862 CiganoSandro[11106:98560] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Data/Application/4FA98274-BC15-4697-B3AE-A438F11795FD/Library/Cookies/Cookies.binarycookies
+2015-02-08 19:33:21.977 CiganoSandro[11106:98560] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-08 19:33:21.977 CiganoSandro[11106:98560] Multi-tasking -> Device: YES, App: YES
+2015-02-08 19:33:21.979 CiganoSandro[11106:98560] Unlimited access to network resources
+2015-02-08 19:33:21.982 CiganoSandro[11106:98560] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-08 19:33:22.219 CiganoSandro[11106:98560] Resetting plugins due to page load.
+2015-02-08 19:33:22.369 CiganoSandro[11106:98560] Finished load of: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Bundle/Application/FDB09746-8083-4D0E-BCEE-69B1A6EEC988/CiganoSandro.app/www/index.html
+2015-02-08 19:34:56.467 CiganoSandro[11470:99551] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Data/Application/04FB3B91-C1E6-4185-A5EB-54927D405095/Library/Cookies/Cookies.binarycookies
+2015-02-08 19:34:56.640 CiganoSandro[11470:99551] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-08 19:34:56.640 CiganoSandro[11470:99551] Multi-tasking -> Device: YES, App: YES
+2015-02-08 19:34:56.642 CiganoSandro[11470:99551] Unlimited access to network resources
+2015-02-08 19:34:56.645 CiganoSandro[11470:99551] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-08 19:34:56.878 CiganoSandro[11470:99551] Resetting plugins due to page load.
+2015-02-08 19:34:57.031 CiganoSandro[11470:99551] Finished load of: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Bundle/Application/8FFDA39C-C29C-43BC-A23C-DAEB0D816602/CiganoSandro.app/www/index.html
+2015-02-08 19:46:20.863 CiganoSandro[12144:104825] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Data/Application/49ADCC79-9745-4221-8BA6-D9A6315EFDDA/Library/Cookies/Cookies.binarycookies
+2015-02-08 19:46:20.977 CiganoSandro[12144:104825] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-08 19:46:20.978 CiganoSandro[12144:104825] Multi-tasking -> Device: YES, App: YES
+2015-02-08 19:46:20.981 CiganoSandro[12144:104825] Unlimited access to network resources
+2015-02-08 19:46:20.984 CiganoSandro[12144:104825] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-08 19:46:21.283 CiganoSandro[12144:104825] Resetting plugins due to page load.
+2015-02-08 19:46:21.433 CiganoSandro[12144:104825] Finished load of: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Bundle/Application/2B675626-7283-4778-9A00-F19A7101213A/CiganoSandro.app/www/index.html
+2015-02-08 19:46:52.962 CiganoSandro[12764:105894] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Data/Application/37F37C64-A5EA-42B6-9CB8-FE8094EACF40/Library/Cookies/Cookies.binarycookies
+2015-02-08 19:46:53.129 CiganoSandro[12764:105894] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-08 19:46:53.130 CiganoSandro[12764:105894] Multi-tasking -> Device: YES, App: YES
+2015-02-08 19:46:53.132 CiganoSandro[12764:105894] Unlimited access to network resources
+2015-02-08 19:46:53.137 CiganoSandro[12764:105894] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-08 19:46:53.383 CiganoSandro[12764:105894] Resetting plugins due to page load.
+2015-02-08 19:46:53.551 CiganoSandro[12764:105894] Finished load of: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Bundle/Application/E3FF7F53-1BD5-4C15-8152-B1CC8B319C68/CiganoSandro.app/www/index.html
+2015-02-08 19:48:16.950 CiganoSandro[13120:106974] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Data/Application/B2D260CE-C859-4922-B796-89B43A4D46F7/Library/Cookies/Cookies.binarycookies
+2015-02-08 19:48:17.113 CiganoSandro[13120:106974] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-08 19:48:17.113 CiganoSandro[13120:106974] Multi-tasking -> Device: YES, App: YES
+2015-02-08 19:48:17.115 CiganoSandro[13120:106974] Unlimited access to network resources
+2015-02-08 19:48:17.118 CiganoSandro[13120:106974] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-08 19:48:17.356 CiganoSandro[13120:106974] Resetting plugins due to page load.
+2015-02-08 19:48:17.514 CiganoSandro[13120:106974] Finished load of: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Bundle/Application/7FA8A76F-0E6D-41F2-A983-F737B6FF35F0/CiganoSandro.app/www/index.html
+2015-02-08 19:48:39.042 CiganoSandro[13444:107678] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Data/Application/4B022FA0-9A53-46C3-999C-F373548F5DCD/Library/Cookies/Cookies.binarycookies
+2015-02-08 19:48:39.213 CiganoSandro[13444:107678] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-08 19:48:39.214 CiganoSandro[13444:107678] Multi-tasking -> Device: YES, App: YES
+2015-02-08 19:48:39.216 CiganoSandro[13444:107678] Unlimited access to network resources
+2015-02-08 19:48:39.218 CiganoSandro[13444:107678] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-08 19:48:39.462 CiganoSandro[13444:107678] Resetting plugins due to page load.
+2015-02-08 19:48:39.611 CiganoSandro[13444:107678] Finished load of: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Bundle/Application/6CD159EF-D3C3-49A4-9F78-F030F358C765/CiganoSandro.app/www/index.html
+2015-02-08 19:49:14.411 CiganoSandro[13784:108536] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Data/Application/D0F76E51-6099-421E-A9C3-4B4829C0E4CA/Library/Cookies/Cookies.binarycookies
+2015-02-08 19:49:14.564 CiganoSandro[13784:108536] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-08 19:49:14.564 CiganoSandro[13784:108536] Multi-tasking -> Device: YES, App: YES
+2015-02-08 19:49:14.565 CiganoSandro[13784:108536] Unlimited access to network resources
+2015-02-08 19:49:14.568 CiganoSandro[13784:108536] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-08 19:49:14.829 CiganoSandro[13784:108536] Resetting plugins due to page load.
+2015-02-08 19:49:14.999 CiganoSandro[13784:108536] Finished load of: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Bundle/Application/A5EA81C0-9647-4DD1-BA7E-8543F5418CB2/CiganoSandro.app/www/index.html
+2015-02-08 19:49:32.546 CiganoSandro[14401:109585] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Data/Application/9304FAD3-24DE-42C1-96A2-BAAAFBE61D06/Library/Cookies/Cookies.binarycookies
+2015-02-08 19:49:32.663 CiganoSandro[14401:109585] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-08 19:49:32.664 CiganoSandro[14401:109585] Multi-tasking -> Device: YES, App: YES
+2015-02-08 19:49:32.665 CiganoSandro[14401:109585] Unlimited access to network resources
+2015-02-08 19:49:32.667 CiganoSandro[14401:109585] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-08 19:49:32.921 CiganoSandro[14401:109585] Resetting plugins due to page load.
+2015-02-08 19:49:33.102 CiganoSandro[14401:109585] Finished load of: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Bundle/Application/D47930B5-21DD-46B6-B1F9-C6CB46349DAE/CiganoSandro.app/www/index.html
+2015-02-08 19:50:38.587 CiganoSandro[14754:110659] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Data/Application/748F4F68-4565-4B99-BF1D-7F08C9FE2B5F/Library/Cookies/Cookies.binarycookies
+2015-02-08 19:50:38.692 CiganoSandro[14754:110659] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-08 19:50:38.693 CiganoSandro[14754:110659] Multi-tasking -> Device: YES, App: YES
+2015-02-08 19:50:38.694 CiganoSandro[14754:110659] Unlimited access to network resources
+2015-02-08 19:50:38.696 CiganoSandro[14754:110659] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-08 19:50:38.919 CiganoSandro[14754:110659] Resetting plugins due to page load.
+2015-02-08 19:50:39.085 CiganoSandro[14754:110659] Finished load of: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Bundle/Application/995EBF31-053E-4894-B51E-D375A429B20B/CiganoSandro.app/www/index.html
+2015-02-08 19:51:39.501 CiganoSandro[15099:111571] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Data/Application/CA3B8B45-5AD9-421A-9A32-8365CD4A8839/Library/Cookies/Cookies.binarycookies
+2015-02-08 19:51:39.618 CiganoSandro[15099:111571] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-08 19:51:39.618 CiganoSandro[15099:111571] Multi-tasking -> Device: YES, App: YES
+2015-02-08 19:51:39.620 CiganoSandro[15099:111571] Unlimited access to network resources
+2015-02-08 19:51:39.623 CiganoSandro[15099:111571] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-08 19:51:39.874 CiganoSandro[15099:111571] Resetting plugins due to page load.
+2015-02-08 19:51:40.025 CiganoSandro[15099:111571] Finished load of: file:///Users/wusley/Library/Developer/CoreSimulator/Devices/A1AB2AB9-D923-4BF8-9A98-2798A599CE1E/data/Containers/Bundle/Application/8CFAC578-819E-4B17-A546-08B02D5514AD/CiganoSandro.app/www/index.html
